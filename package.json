@@ -1,0 +1,23 @@
+{
+  "name": "microsoft-homepage-clone",
+  "version": "1.0.0",
+  "description": "Microsoft Homepage Clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rchadgonzales/microsoft-homepage-clone.git"
+  },
+  "author": "Richard Gonzales",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rchadgonzales/microsoft-homepage-clone/issues"
+  },
+  "homepage": "https://rchadgonzales.github.io/microsoft-homepage-clone",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
